@@ -1,0 +1,17 @@
+/bin/
+/build_dir/
+/staging_dir/
+/tmp/
+/dl/
+/logs/
+/files
+*.o
+*.ko
+*.ipk
+*.img
+*.bin
+*.gz
+*.xz
+*.tar
+*.zip
+EOF
