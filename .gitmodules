@@ -1,4 +1,4 @@
 [submodule "upstream"]
-	path = upstream
+	path = immortalwrt
 	url = https://github.com/immortalwrt/immortalwrt.git
 	branch = master
