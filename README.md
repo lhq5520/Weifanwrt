@@ -1,3 +1,7 @@
+<img width="1491" height="780" alt="2353d235-66c9-41fa-86e7-6b789002f060" src="https://github.com/user-attachments/assets/fe0fb290-6967-4a96-9014-39fe810a4dbc" />
+
+<img width="945" height="585" alt="d992f356-d2f6-4a81-a6f9-be8e3dc5dd7a" src="https://github.com/user-attachments/assets/ef04ccc3-2c17-42a2-99af-fdb80ca0fe46" />
+
 Custom ImmortalWrt build configs by Weifan.  
 Compiled firmware images are available under [Releases](../../releases).
 Project: WeifanWrt
